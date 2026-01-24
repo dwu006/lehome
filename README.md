@@ -112,7 +112,6 @@ See [Training Guide](docs/training.md) for complete configuration examples and f
 ### 4. Eval
 
 Evaluate your trained policy on the challenge garments. The framework supports LeRobot policies (ACT, Diffusion, VLA) and custom implementations.
-> 💡 **Recommendation**: We strongly recommend prioritizing the use of LeRobot policies . Only consider using a custom policy if LeRobot does not meet your requirements.
 
 #### Quick Start
 
