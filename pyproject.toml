@@ -22,6 +22,8 @@ required-environments = [
 override-dependencies = [
     "packaging==23.0",
     "numpy==1.26.0",
+    "evdev>=1.9.3",
+    "setuptools>=70.0.0",
 ]
 
 [[tool.uv.index]]
